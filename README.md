@@ -5,9 +5,9 @@ Project Web App จัดทำโดย
  - list 2
  - list 3
 ## Example code
-``<javascript>  
+<javascript>  
  alert('ok');  
-</javascript>``
+</javascript>
 
 ## Credit
 [link]pawadees@gmail.com

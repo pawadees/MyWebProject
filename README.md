@@ -5,8 +5,8 @@ Project Web App จัดทำโดย
  - list 2
  - list 3
 ## Example code
-``<javascript> \n
- alert('ok');
+``<javascript>  
+ alert('ok');  
 </javascript>``
 
 ## Credit

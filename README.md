@@ -10,6 +10,6 @@ Project Web App จัดทำโดย
 </javascript>```
 
 ## Credit
-[link]myemail@gmail.com
+[link]pawdaees@gmail.com
 ## License
 MIT License
